@@ -14,31 +14,13 @@ import { INSTITUTE } from '../../constants/institute.constants'
 
 const slides = [
   {
-    id: 1, image: getHeroImage('slide-main-desktop.webp'),
-    eyebrow: 'UP Paramedical Council Approved',
-    title: 'Build Your Career in', accent: 'Healthcare',
-    subtitle: 'Join B.B.S. Group of Educational Institutes for world-class paramedical diploma training. 16 specialised courses. Experienced faculty. Guaranteed placement support.',
-    cta1: { label: 'Explore Courses', path: ROUTES.COURSES },
-    cta2: { label: 'Apply Now', path: ROUTES.ADMISSIONS },
-  },
-  {
-    id: 2, image: getHeroImage('slide-two-desktop.webp'),
-    eyebrow: 'Estd. 2005 — 19 Years of Excellence',
-    title: 'Hands-on Training in', accent: 'Modern Labs',
-    subtitle: 'State-of-the-art laboratories, clinical simulation rooms and hospital posting ensure our graduates are job-ready from day one.',
-    cta1: { label: 'View Facilities', path: ROUTES.ABOUT },
-    cta2: { label: 'Meet Our Faculty', path: ROUTES.FACULTY },
-  },
-  {
-    id: 3, image: getHeroImage('slide-three-desktop.webp'),
-    eyebrow: '92% Placement Record',
-    title: 'Your Future in', accent: 'Paramedical Science',
-    subtitle: 'From Medical Lab Technician to Cath Lab Technology — choose from 16 government-recognised diploma programmes designed for immediate employment.',
-    cta1: { label: 'Admission 2025-26', path: ROUTES.ADMISSIONS },
-    cta2: { label: 'Download Brochure', path: '#' },
-  },
-]
 
+  },
+  {
+    
+  },
+  {
+    
 const heroStats = [
   { value: '19+', label: 'Years of Excellence', icon: Award },
   { value: '16', label: 'Diploma Courses', icon: GraduationCap },
